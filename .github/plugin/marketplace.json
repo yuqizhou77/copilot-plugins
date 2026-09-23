@@ -427,8 +427,7 @@
         "declarative-agents",
         "skills",
         "connectors",
-        "agent-development",
-        "validation"
+        "agent-development"
       ],
       "license": "MIT",
       "repository": "https://github.com/microsoft/wiqd",
