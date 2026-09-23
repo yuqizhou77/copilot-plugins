@@ -25,7 +25,7 @@ This marketplace also references plugins hosted in other repositories:
 
 - **[Power Platform Skills](https://github.com/microsoft/power-platform-skills)** — `power-pages`, `model-apps`, `mcp-apps`, `canvas-apps`, `code-apps-preview`, `mobile-app`, `power-automate`. Plugins for Power Platform development (Power Pages sites, model-driven and canvas apps, code apps, MCP App widgets, mobile apps, and Power Automate cloud flows).
 
-- **[wiqd](https://github.com/microsoft/wiqd)** — Work IQ developer tools for building, validating, provisioning, publishing, evaluating, and monitoring Microsoft 365 Copilot declarative agents.
+- **[wiqd](https://github.com/microsoft/wiqd)** — Developer toolkit for building, validating, provisioning, and publishing Microsoft 365 Copilot plugins, including extensibility capabilities such as declarative agents, skills, and connectors.
 
 ## 🤝 Contributing
 
